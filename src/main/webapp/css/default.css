@@ -1,0 +1,53 @@
+body{
+    background-color: #222;
+    color: #CCC;
+    font-family: "Consolas","courier new",monospace;
+}
+.pQuote{
+    width: 480px;
+    height: 270px;
+}
+table{
+    text-align: right;
+    border: 0px;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: #6cf;
+}
+th{
+    background-color: #666;
+    padding: 0px;
+}
+td{
+    background-color: #333;
+    padding: 0px;
+}
+.tNo{
+    width: 50px;
+}
+.tName{
+    width: 300px;
+}
+.tLang{
+    width: 200px;
+}
+.tDate{
+    width: 150px;
+}
+.tStat{
+    width: 100px;
+}
+.tSrc{
+    width: 600px;
+}
+.Tproceeding{
+    color: #CC2;
+}
+.Tfinished{
+    color: #2A2;
+}
+.Taborted{
+    color: #A22;
+}
