@@ -28,7 +28,7 @@ create table `prj`.`list`
  The default JDBC configuration(jdbcUrl, user, password) is stored in ``conf/bruce.conf``, which isn't uploaded together, so you need to create it, just like this:
 ```
 jdbcUrl=jdbc:mysql://localhost:3306/?characterEncoding=UTF-8&serverTimezone=UTC
-user=root
+username=root
 password=root
 ```
  and change the ``src/main/java/com.bk.prj.dao/ProjectDAO.java``:
