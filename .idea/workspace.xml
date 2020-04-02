@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d9b56eff-1d07-4407-af8c-1581e7b05b24" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -120,21 +120,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1575036467387">
+    <state x="1059" y="369" key="FileChooserDialogImpl" timestamp="1576793410605">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1575036467387" />
-    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1575036467387">
+    <state x="1059" y="369" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1576793410605" />
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom" timestamp="1576823097657">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1575036467387" />
-    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1575036467387">
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576823097657" />
+    <state width="2517" height="399" key="GridCell.Tab.0.center" timestamp="1576823097657">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1575036467387" />
-    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1575036467387">
+    <state width="2517" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576823097657" />
+    <state width="2517" height="399" key="GridCell.Tab.0.left" timestamp="1576823097657">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1575036467387" />
+    <state width="2517" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576823097657" />
+    <state width="2517" height="399" key="GridCell.Tab.0.right" timestamp="1576823097657">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576823097657" />
+    <state x="654" y="309" key="new project wizard" timestamp="1576793458901">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="654" y="309" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1576793458901" />
   </component>
 </project>
